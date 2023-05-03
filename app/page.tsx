@@ -7,7 +7,7 @@ export const metadata = {
 };
 
 const getProducts = async () => {
-  const data = fetch('https://fakestoreapi.com/products?sort=desc')
+  const data = fetch('https://fakestoreapi.com/products')
     .then(res => res.json())
   return data
 }

@@ -34,7 +34,7 @@ export default function Product({ product }: { product: product }) {
                             <div className='mt-6'>
                                 <h3 className='font-bold text-2xl'>Description:</h3>
 
-                                <div className='space-y-6 text-xs text-stone-700 sm:text-base' />
+                                <div className='break-words space-y-6 text-xs text-stone-700 sm:text-base' />
                                 {product.description}
                             </div>
                             <div className='mt-10'>
