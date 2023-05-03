@@ -37,7 +37,7 @@ const Products = ({ products }: { products: product[] }) => {
                             <p className='mt-1 text-lg font-medium text-stone-900'>
                                 ${product.price}
                             </p>
-                            <p className='text-blue-500 underline'>View Product</p>
+                            <p className='text-blue-500 text-lg underline text-center'>View Product</p>
                         </Link>
                     ))}
                 </div>

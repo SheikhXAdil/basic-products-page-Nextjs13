@@ -1,6 +1,11 @@
 
 import Products from "./Componenets/Products"
 
+
+export const metadata = {
+  title: 'Products',
+};
+
 const getProducts = async () => {
   const data = fetch('https://fakestoreapi.com/products?sort=desc')
     .then(res => res.json())
