@@ -1,41 +1,59 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Basic Products Page — Next.js 13
 
-# Click [here](https://basic-products-page-nextjs13.vercel.app/) to view live site
+A basic experimental project created during my **initial learning phase with Next.js**.
 
+The project was built to practice the fundamentals of **Next.js 13**, React components, page structure, and styling while experimenting with a simple product-based interface.
 
-## Getting Started
+## Live Demo
 
-First, run the development server:
+**[Basic Products Page — Live Demo](https://basic-products-page-nextjs13.vercel.app/)**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## About
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project is a simple product page developed as an early experiment with **Next.js 13**.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The main purpose was to become familiar with the Next.js application structure and practice building a small interface using React and Tailwind CSS.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+The project includes:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+* Product-focused UI
+* Reusable React components
+* Product information and presentation
+* Responsive layout
+* Basic page structure using Next.js 13
+* Styling with Tailwind CSS
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tech Stack
 
-## Learn More
+* **Next.js 13**
+* **React**
+* **JavaScript / TypeScript**
+* **Tailwind CSS**
+* **Vercel**
 
-To learn more about Next.js, take a look at the following resources:
+## Key Concepts
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Through this project, I practiced:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* Getting started with Next.js 13
+* Working with the Next.js App Router
+* Creating React components
+* Structuring a Next.js application
+* Building reusable UI elements
+* Creating responsive layouts
+* Styling with Tailwind CSS
+* Deploying a Next.js application using Vercel
 
-## Deploy on Vercel
+## Learning Context
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This was one of my **early experimental projects while learning Next.js**.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Rather than being developed as a complete production application, the project was created to explore the framework and understand its basic concepts through a small, manageable implementation.
+
+It is preserved as part of my programming and web development learning history.
+
+## Status
+
+**Archived personal learning project.**
+
+The application remains deployed as a demonstration, while the repository is preserved as a record of my initial experience with Next.js 13.
